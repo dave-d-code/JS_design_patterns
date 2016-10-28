@@ -1,0 +1,26 @@
+{
+  "name": "jspatterns",
+  "description": "Code examples for learning JS patterns",
+  "main": "index.js",
+  "authors": [
+    "dave d"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "javascript",
+    "design",
+    "patterns"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "requirejs": "^2.3.2"
+  }
+}

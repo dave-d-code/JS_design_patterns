@@ -1,0 +1,16 @@
+{
+  "name": "jspatterns",
+  "version": "1.0.0",
+  "description": "Code examples for learning JS patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "design",
+    "patterns"
+  ],
+  "author": "dave d",
+  "license": "MIT"
+}
