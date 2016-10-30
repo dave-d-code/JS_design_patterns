@@ -1,9 +1,12 @@
 require(
-	[],
-	function() {
+	['factory/init'],
+	function(factory) {
 		'use strict';
+		
 		// object to store our init modules. this will get filled up
-		var examples = {};
+		var examples = {
+			factory: factory
+		};
 
 		// global method to view example in the console
 
